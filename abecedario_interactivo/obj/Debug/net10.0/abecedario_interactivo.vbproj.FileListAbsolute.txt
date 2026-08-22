@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\bin\Debug\net10.0\abecedario_interactivo.exe
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\bin\Debug\net10.0\abecedario_interactivo.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\bin\Debug\net10.0\abecedario_interactivo.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\bin\Debug\net10.0\abecedario_interactivo.dll
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\bin\Debug\net10.0\abecedario_interactivo.pdb
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\obj\Debug\net10.0\abecedario_interactivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\obj\Debug\net10.0\abecedario_interactivo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\obj\Debug\net10.0\abecedario_interactivo.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\obj\Debug\net10.0\abecedario_interactivo.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\obj\Debug\net10.0\abecedario_interactivo.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\obj\Debug\net10.0\abecedario_interactivo.dll
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\obj\Debug\net10.0\refint\abecedario_interactivo.dll
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\obj\Debug\net10.0\abecedario_interactivo.pdb
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\obj\Debug\net10.0\abecedario_interactivo.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\abecedario_interactivo\abecedario_interactivo\obj\Debug\net10.0\ref\abecedario_interactivo.dll
